@@ -34,16 +34,9 @@ Joke API (authenticated with an API key)
 📦 Setup Instructions
 Clone this repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/random-joke-generator.git
-Navigate to the project folder:
+<pre><code>git clone https://github.com/your-username/random-joke-generator.git
+cd random-joke-generator</code></pre>
 
-bash
-Copy
-Edit
-cd random-joke-generator
 Get an API key from the joke API provider
 
 Open the JavaScript file and replace the placeholder with your actual API key
