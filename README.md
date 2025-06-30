@@ -16,32 +16,33 @@ The Random Joke Generator is a fun and lightweight web app that fetches and disp
 This app integrates with an external Joke API that requires an API key.
 To use it:
 
-Sign up with the joke provider and get your API key
+1) Sign up with the joke provider and get your API key
 
-Plug your key into the JavaScript code where indicated
+2) Plug your key into the JavaScript code where indicated
 
-Enjoy generating jokes securely
+3) Enjoy generating jokes securely
 
 🛠️ Technologies Used
-HTML
+- HTML
 
-CSS
+- CSS
 
-JavaScript
+- JavaScript
 
-Joke API (authenticated with an API key)
+- Joke API (authenticated with an API key)
 
 📦 Setup Instructions
-Clone this repository:
+1. Clone this repository:
+<pre><code>git clone https://github.com/your-username/random-joke-generator.git</code></pre>
 
-<pre><code>git clone https://github.com/your-username/random-joke-generator.git
-cd random-joke-generator</code></pre>
+2. Navigate to the project folder:
+<pre><code>cd random-joke-generator</code></pre>
 
-Get an API key from the joke API provider
+3. Get an API key from the joke API provider
 
-Open the JavaScript file and replace the placeholder with your actual API key
+4. Open the JavaScript file and replace the placeholder with your actual API key
 
-Open index.html in your browser
+5. Open index.html in your browser
 
-Click the button and enjoy the laughs!
+6. Click the button and enjoy the laughs!
 
